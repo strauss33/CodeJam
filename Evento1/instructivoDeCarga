@@ -1,0 +1,28 @@
+CodeJam · EVENTO 1: Premium (Niveles 2 y 3)
+
+Ya está abierto el cierre del Evento 1. Qué hay que hacer:
+
+1) Actualizá el simulador
+En tu copia del repo: git pull
+https://github.com/clubProgramacionUNViMe/quickdrop-sim
+Sin esto, tu simulador local no calcula el costo nuevo.
+
+2) Qué cambia
+Algunos pedidos son premium (campo premium) y tienen que recibirse antes. Se suma un costo por cada minuto hasta que empieza la entrega de cada premium. Tu plan sigue siendo el mismo formato.
+Lo que abre: priorizar los premium al inicio de cada ruta, dedicarles un vehículo o reorganizar el reparto.
+
+3) Práctica
+En la web ya aparece la Práctica Evento 1:
+https://dygd5d0drje17.cloudfront.net/simulador
+Probá tu plan ahí antes de entregar.
+
+4) Entrega
+En la misma web, sección "Entregar", con el código de tu grupo (QD-XXXXX). Ahora ves los datasets del Evento 1. Cada entrega reemplaza a la anterior y cuenta la última. Un plan inválido vale 0.
+
+5) Guía
+La guía del Evento 1 se entregó por el grupo.
+
+Recordatorio: el depósito puede no estar en (0,0). Leelo del archivo.
+
+El horario de cierre lo avisamos en voz alta.
+¡Éxitos! 🚀
